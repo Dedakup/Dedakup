@@ -1,4 +1,4 @@
-<img href="https://ibb.co/47ftNwc" align="left" style="width: 100%" />  
+<img src="header.png" align="left" style="width: 100%" />  
   
 
 ### I'm a beginner full-stack developer learning and enjoying building interesting projects.  
