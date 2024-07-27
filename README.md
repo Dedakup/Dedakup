@@ -1,4 +1,4 @@
-<img src="https://ibb.co/47ftNwc" align="left" style="width: 100%" />  
+<img href="https://ibb.co/47ftNwc" align="left" style="width: 100%" />  
   
 
 ### I'm a beginner full-stack developer learning and enjoying building interesting projects.  
@@ -125,21 +125,3 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
