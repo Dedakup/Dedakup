@@ -2,8 +2,8 @@
 
   
 <br/>
-
-
+### 
+### I'm a beginner full-stack developer learning and enjoying building interesting projects.  
 
   
 
