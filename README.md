@@ -1,11 +1,5 @@
 <img src="header.png" align="left" style="width: 100%; margin-bottom: 20px" />
 
-  
-<br/>
-
-<br/>
-
-<br/>
 
 
 ### I'm a beginner full-stack developer learning and enjoying building interesting projects.  
