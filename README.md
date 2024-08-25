@@ -1,27 +1,24 @@
 <img src="header-1.png" align="left" style="width: 100%; margin-bottom: 20px" />
 
+### 👋 Hello, I'm David Kupchenko!
 
-
-### I'm a beginner full-stack developer learning and enjoying building interesting projects.  
-
-  
+I'm an aspiring Full Stack Engineer with a passion for learning and building robust web and mobile applications. I'm excited about the journey I'm on, constantly evolving my skills and diving into new technologies.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning microservice architecture with CDN and Next.js
-- 👯 I’m looking to collaborate on interesting projects
-- 📫 How to reach me: dev.dav.kup@gmail.com
-- 😄 Pronouns: he/him  
-  
+
+- 🌱 **Currently Learning:** Microservice architecture and Next.js.
+- 👯 **Open to Collaborate:** I'm eager to work on interesting and innovative projects.
+- 📫 **Reach Me At:** [dev.dav.kup@gmail.com](mailto:dev.dav.kup@gmail.com)
+- 😄 **Pronouns:** He/Him
+- 🎯 **Goal:** To become a well-rounded Full Stack Developer who can create scalable, efficient, and user-friendly solutions.
 
 <br/>  
 
+## 🛠 My Skill Set
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+### Frontend
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -41,9 +38,7 @@
 
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
+### Backend
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
@@ -66,12 +61,12 @@
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+### DevOps
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev
+
+/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -84,42 +79,37 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
+## 🌐 Connect with Me
 
-## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Dedakup" target="_blank">
+<a href="https://github.com/Dedakup" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://x.com/DavidKupch46655" target="_blank">
+<a href="https://twitter.com/DavidKupch46655" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/https://dev.to/dedaku" target="_blank">
+<a href="https://dev.to/dedaku" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-kupchenko-930a48261/" target="_blank">
+<a href="https://linkedin.com/in/david-kupchenko-930a48261/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/david_kupchenko/" target="_blank">
+<a href="https://instagram.com/david_kupchenko/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/davidkupchenko" target="_blank">
+<a href="https://www.kaggle.com/davidkupchenko" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23415053/dedaku" target="_blank">
+<a href="https://stackoverflow.com/users/23415053/dedaku" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/https://gitlab.com/Dedakup" target="_blank">
+<a href="https://gitlab.com/Dedakup" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
-
-<br/>  
-
-
+<br/>
