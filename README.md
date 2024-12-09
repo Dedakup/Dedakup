@@ -15,6 +15,7 @@
 
 ### 🔭 What I’m Working On
 - **[Focus Flow](https://github.com/Dedakup/FocusFlow):** A productivity tool integrating Pomodoro timers, task management, and customizable features.
+- **[Next-scale](https://github.com/Dedakup/next-scale):** A production-ready, cost-efficient serverless app template designed to help developers build scalable, reliable applications on AWS without breaking the bank.
 
 ### 🌱 What I’m Learning
 - **Next.js, AWS** to enhance my skills in modern web development and cloud computing.
