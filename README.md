@@ -19,16 +19,6 @@ A full-stack developer who loves building things. I create multiplatform applica
 
 ---
 
-## 🔭 What I'm Working On
-
-- **[4PR](https://github.com/4pr-me/4pr):** A platform connecting IT professionals to collaborate on startup projects, track contributions, and distribute profits transparently based on individual effort.
-- **[Next-scale](https://github.com/Dedakup/next-scale):** A production-ready, cost-efficient serverless app template designed to help developers build scalable, reliable applications on AWS without breaking the bank.
-- **[Focus Flow](https://github.com/Dedakup/FocusFlow):** A productivity tool integrating Pomodoro timers, task management, and customizable features.
-
-Currently building personal projects to showcase my skills and stay current with modern web development. I enjoy the challenge of creating full-stack applications that work seamlessly across web and mobile platforms.
-
----
-
 ## 𝗪𝗵𝗮𝘁 𝘁𝗲𝗰𝗵 𝗮𝗺 𝗜 𝘂𝘀𝗶𝗻𝗴?
 
 ### 🚀 **Current Stack**
