@@ -36,7 +36,7 @@ A full-stack developer who loves building things. I create multiplatform applica
 ---
 
 ### 📫 How to Reach Me
-- Email: **[dev.dav.kup@gmail.com](mailto:dev.dav.kup@gmail.com)**
+- Email: **[david.web.dev73@gmail.com](mailto:david.web.dev73@gmail.com)**
 
 ---
 
@@ -44,9 +44,6 @@ A full-stack developer who loves building things. I create multiplatform applica
 <p align="left">
   <a href="https://linkedin.com/in/dedaku" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_dedaku_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
