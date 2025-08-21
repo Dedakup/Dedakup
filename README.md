@@ -2,12 +2,12 @@
 <h3 align="center">Full Stack Developer from Germany</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dedakup&label=Profile%20views&color=0e75b6&style=flat" alt="dedakup" />
+  <img src="https://komarev.com/ghpvc/?username=StackOverlordX&label=Profile%20views&color=0e75b6&style=flat" alt="StackOverlordX" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dedakup&theme=juicyfresh" alt="dedakup" />
+    <img src="https://github-profile-trophy.vercel.app/?username=StackOverlordX&theme=juicyfresh" alt="StackOverlordX" />
   </a>
 </p>
 
@@ -122,9 +122,9 @@ A full-stack developer who loves building things. I create multiplatform applica
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dedakup&show_icons=true&locale=en" alt="dedakup" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StackOverlordX&show_icons=true&locale=en" alt="StackOverlordX" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dedakup&theme=dark" alt="dedakup" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StackOverlordX&theme=dark" alt="StackOverlordX" />
 </p>
