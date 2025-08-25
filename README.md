@@ -2,12 +2,12 @@
 <h3 align="center">Full Stack Developer from Germany</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StackOverlordX&label=Profile%20views&color=0e75b6&style=flat" alt="StackOverlordX" />
+  <img src="https://komarev.com/ghpvc/?username=404FoundMeX&label=Profile%20views&color=0e75b6&style=flat" alt="404FoundMeX" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=StackOverlordX&theme=juicyfresh" alt="StackOverlordX" />
+    <img src="https://github-profile-trophy.vercel.app/?username=404FoundMeX&theme=juicyfresh" alt="404FoundMeX" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ A full-stack developer who loves building things. I create multiplatform applica
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/dedaku" target="blank">
+  <a href="https://linkedin.com/in/404FoundMeX" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -122,9 +122,9 @@ A full-stack developer who loves building things. I create multiplatform applica
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StackOverlordX&show_icons=true&locale=en" alt="StackOverlordX" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=404FoundMeX&show_icons=true&locale=en" alt="404FoundMeX" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StackOverlordX&theme=dark" alt="StackOverlordX" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404FoundMeX&theme=dark" alt="404FoundMeX" />
 </p>
